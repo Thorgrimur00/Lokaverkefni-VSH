@@ -1,0 +1,24 @@
+body{
+	max-width:1000px;
+	text-align:center;
+	font-size:1.2em;
+	margin:0 auto;
+	margin-top:1em;
+	background-image:url("doom_bg.png");
+	background-repeat:no-repeat;
+	background-size:100%;
+	background-attachment:fixed;
+	background-color:rgb(30, 10, 0);
+}
+
+h1{
+	font-size:3em;
+}
+
+div{
+	background-color:rgba(255, 255, 255, 0.7);
+	padding:1em;
+	margin-bottom:5em;
+	border-radius:20px;
+	border:3px solid white;
+}
